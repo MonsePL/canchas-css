@@ -1,0 +1,46 @@
+.botones{
+   width:130px;
+   height:50px;
+   background:#F7B617;
+   border-radius:8px;
+   position:relative;
+   margin-left: 205px;
+}
+
+
+#rectanguloten {
+width: 1000px;
+height: 500px;
+border: 3px solid #555;
+background: #008000;
+margin-left: 100px;
+margin-top: 600px;
+position:absolute
+}
+
+.rectangulitoten1{
+width: 150px;
+height: 300px;
+border: 3px solid #ffffff;
+background: #008000;
+margin-left: 0px;
+margin-top: 100px;
+
+}
+
+.rectangulitoten2{
+width: 150px;
+height: 300px;
+border: 3px solid #ffffff;
+background: #008000;
+margin-left: 845px;
+margin-top: -300px;
+}
+.rectangulitodivten{
+width: 6px;
+height: 600px;
+border: 3px solid #ffffff;
+background: #ffffff;
+margin-left: 500px;
+margin-top: -500px;
+}
