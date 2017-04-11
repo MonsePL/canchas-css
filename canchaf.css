@@ -3,15 +3,15 @@
      width: 1000px;
      height: 500px;
      border: 3px solid #555;
-     background: green;
+     background: #008000;
      margin-left: 100px;
   }
 
     .rectangulitop{
     width: 150px;
     height: 300px;
-    border: 3px solid white;
-    background: green;
+    border: 3px solid #ffffff;
+    background: #008000;
     margin-left: 0px;
     margin-top: 100px;
 
@@ -20,16 +20,16 @@
   .rectangulitoah{
   width: 150px;
   height: 300px;
-  border: 3px solid white;
-  background: green;
+  border: 3px solid #ffffff;
+  background: #008000;
   margin-left: 845px;
   margin-top: -300px;
 }
   .rectangulitodiv{
   width: 6px;
   height: 600px;
-  border: 3px solid white;
-  background: white;
+  border: 3px solid #ffffff;
+  background: #ffffff;
   margin-left: 500px;
   margin-top: -500px;
 }
@@ -38,8 +38,8 @@
   .semicirculo1{
      width: 80px;
      height: 130px;
-     border: 2px solid white;
-     background: green;
+     border: 2px solid #ffffff;
+     background: #008000;
      -moz-border-radius: 0 100px 100px 0;
      -webkit-border-radius: 0 100px 100px 0;
      border-radius: 0 100px 100px 0;
@@ -51,8 +51,8 @@
 .semicirculo2{
    width: 80px;
    height: 130px;
-   border: 2px solid white;
-   background: green;
+   border: 2px solid #ffffff;
+   background: #008000;
    -moz-border-radius: 100 0px 0px 100;
    -webkit-border-radius: 0 100px 100px 0;
    border-radius:  100px 0 0 100px;
@@ -64,7 +64,7 @@
 .circulo {
      width: 130px;
      height: 130px;
-     border: 7px solid white;
+     border: 7px solid #ffffff;
      -moz-border-radius: 50%;
      -webkit-border-radius: 50%;
      border-radius: 50%;
