@@ -1,0 +1,74 @@
+
+     #rectangulo {
+     width: 1000px;
+     height: 500px;
+     border: 3px solid #555;
+     background: green;
+     margin-left: 100px;
+  }
+
+    .rectangulitop{
+    width: 150px;
+    height: 300px;
+    border: 3px solid white;
+    background: green;
+    margin-left: 0px;
+    margin-top: 100px;
+
+  }
+
+  .rectangulitoah{
+  width: 150px;
+  height: 300px;
+  border: 3px solid white;
+  background: green;
+  margin-left: 845px;
+  margin-top: -300px;
+}
+  .rectangulitodiv{
+  width: 6px;
+  height: 600px;
+  border: 3px solid white;
+  background: white;
+  margin-left: 500px;
+  margin-top: -500px;
+}
+
+
+  .semicirculo1{
+     width: 80px;
+     height: 130px;
+     border: 2px solid white;
+     background: green;
+     -moz-border-radius: 0 100px 100px 0;
+     -webkit-border-radius: 0 100px 100px 0;
+     border-radius: 0 100px 100px 0;
+     margin-left: 155px;
+     margin-top: -335px;
+}
+
+
+.semicirculo2{
+   width: 80px;
+   height: 130px;
+   border: 2px solid white;
+   background: green;
+   -moz-border-radius: 100 0px 0px 100;
+   -webkit-border-radius: 0 100px 100px 0;
+   border-radius:  100px 0 0 100px;
+   margin-left: 762px;
+   margin-top: -145px;
+}
+
+
+.circulo {
+     width: 130px;
+     height: 130px;
+     border: 7px solid white;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     margin-left: 433px;
+     margin-top: -120px;
+
+}
